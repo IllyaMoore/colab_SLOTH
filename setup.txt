@@ -1,0 +1,3 @@
+sudo apt-get install xdotool wmctrl curl
+chmod +x colab_keepalive.sh
+./colab_bot.sh
